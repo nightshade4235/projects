@@ -22,7 +22,7 @@ This programming language is designed to allow people to have a OOP experience w
 
 ## "Hello World" in C:
 
-```
+```c
 #include <stdio.h>
 
 int main(){
@@ -35,7 +35,7 @@ int main(){
 
 ## "Hello World" in Cord:
 
-```
+```c
 #include <biosys.h>
  int main(){
 
