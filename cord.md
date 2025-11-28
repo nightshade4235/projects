@@ -65,7 +65,7 @@ int main(){
 </style>
 
 <div class="link-container">
-  <a href="problem-statement.html" class="right-link">Next : Problem Statement</a>
+  <a href="everfall.html" class="right-link">Next : Everfall</a>
 </div>
 
 
