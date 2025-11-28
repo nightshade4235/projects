@@ -5,7 +5,7 @@ baseurl: "/library" # if hosting at root of a GitHub Pages site
 url: "https://nightshade4235.github.io" # replace with your GitHub Pages URL
 github_username: nightshade4235
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: abhinavs/moonwalk
 
 plugins:
   - jekyll-feed
