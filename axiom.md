@@ -5,7 +5,7 @@ nav_order: 1
 description: "The home page for a compiler for my language: Axiom"
 ---
 
-# *Axiom : A programming language like C, but with classesand objects, but not as bloated as C++.*
+# *Axiom : A programming language based on C with classes and objects, but not as bloated as C++.*
 
 **Authors:** Joel Mathew (Nightshade).  
 **Date:** December 2025
@@ -37,26 +37,26 @@ It offers clear semantics, predictable performance, and a refined approach to lo
 
 ## Demonstration:
 
-### "Hello World" in C:
+### "Hello, World!" in C:
 
 ```c
 #include <stdio.h>
 
 int main(){
 
-  printf("Hello World\n");
+  printf("Hello, World!\n");
   
   return 0;
 }
 ```
 
-### "Hello World" in Axiom:
+### "Hello, World!" in Axiom:
 
 ```c
 #include <axiom.h>
  int main(){
 
-  writef("Hello World!\n");
+  writef("Hello, World!\n");
 
   return 0;
  }
