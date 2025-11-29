@@ -17,7 +17,7 @@ description: "The home page for a compiler for my language: Axiom"
 Axiom is a modern, object-oriented systems language built on the foundations of C, designed to be powerful without the historical bloat of C++.  
 It offers clear semantics, predictable performance, and a refined approach to low-level programming.
 
-## 📌 **Core Design Principles**
+## **Core Design Principles**
 
 1. **Deterministic, explicit behavior**  
    No hidden allocations, no magical type conversions, no implicit performance traps.
@@ -56,7 +56,7 @@ int main(){
 #include <axiom.h>
  int main(){
 
-  printf("Hello World!\n");
+  writef("Hello World!\n");
 
   return 0;
  }
