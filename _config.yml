@@ -1,7 +1,7 @@
 title: Projects
 description: >
   The page for all of my projects.
-baseurl: "/home" # if hosting at root of a GitHub Pages site
+baseurl: "/projects" # if hosting at root of a GitHub Pages site
 url: "https://nightshade4235.github.io" # replace with your GitHub Pages URL
 github_username: nightshade4235
 
