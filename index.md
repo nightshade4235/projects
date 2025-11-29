@@ -81,13 +81,4 @@ int main(){
   }
 </style>
 
-<div class="link-container">
-  <a href="axiom-doc.html" class="right-link">Documentation for Axiom</a>
-</div>
-
-<br>
-
-<div class="link-container">
-  <a href="everfall.html" class="right-link">Next : Everfall</a>
-</div>
 
