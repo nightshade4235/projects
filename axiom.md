@@ -31,8 +31,8 @@ It offers clear semantics, predictable performance, and a refined approach to lo
 4. **Static, Strong Typing**  
    The type system is compile-time enforced and predictable.
 
-5. **Low-level power with higher-level expressiveness**  
-   Ideal for graphics, game engines, scientific computing, and embedded systems.
+5. **Selective includes**
+   You get the ability to select specific function from include files
 
 
 ## Demonstration:
@@ -53,13 +53,13 @@ int main(){
 ### "Hello, World!" in Axiom:
 
 ```c
-#include <axiom.h>
- int main(){
+#include <axiom> ||> {wrintf};
+int main(){
 
   writef("Hello, World!\n");
 
   return 0;
- }
+}
 ```
 
 <style>
